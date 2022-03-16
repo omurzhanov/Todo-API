@@ -1,0 +1,6 @@
+django
+Pillow
+djangorestframework
+django-cors-headers
+drf-yasg
+python-decouple==3.4
